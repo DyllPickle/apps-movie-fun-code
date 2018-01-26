@@ -1,0 +1,17 @@
+/Users/pivotal/workspace/apps-movie-fun-code/src/main/java/org/superbiz/moviefun/blobstore/Blob.java
+/Users/pivotal/workspace/apps-movie-fun-code/src/main/java/org/superbiz/moviefun/CsvUtils.java
+/Users/pivotal/workspace/apps-movie-fun-code/src/main/java/org/superbiz/moviefun/blobstore/S3Store.java
+/Users/pivotal/workspace/apps-movie-fun-code/src/main/java/org/superbiz/moviefun/blobstore/FileStore.java
+/Users/pivotal/workspace/apps-movie-fun-code/src/main/java/org/superbiz/moviefun/albums/AlbumsUpdater.java
+/Users/pivotal/workspace/apps-movie-fun-code/src/main/java/org/superbiz/moviefun/movies/MoviesBean.java
+/Users/pivotal/workspace/apps-movie-fun-code/src/main/java/org/superbiz/moviefun/movies/Movie.java
+/Users/pivotal/workspace/apps-movie-fun-code/src/main/java/org/superbiz/moviefun/albums/AlbumFixtures.java
+/Users/pivotal/workspace/apps-movie-fun-code/src/main/java/org/superbiz/moviefun/HomeController.java
+/Users/pivotal/workspace/apps-movie-fun-code/src/main/java/org/superbiz/moviefun/albums/AlbumsUpdateScheduler.java
+/Users/pivotal/workspace/apps-movie-fun-code/src/main/java/org/superbiz/moviefun/ActionServlet.java
+/Users/pivotal/workspace/apps-movie-fun-code/src/main/java/org/superbiz/moviefun/blobstore/BlobStore.java
+/Users/pivotal/workspace/apps-movie-fun-code/src/main/java/org/superbiz/moviefun/albums/AlbumsController.java
+/Users/pivotal/workspace/apps-movie-fun-code/src/main/java/org/superbiz/moviefun/movies/MovieFixtures.java
+/Users/pivotal/workspace/apps-movie-fun-code/src/main/java/org/superbiz/moviefun/Application.java
+/Users/pivotal/workspace/apps-movie-fun-code/src/main/java/org/superbiz/moviefun/albums/AlbumsBean.java
+/Users/pivotal/workspace/apps-movie-fun-code/src/main/java/org/superbiz/moviefun/albums/Album.java

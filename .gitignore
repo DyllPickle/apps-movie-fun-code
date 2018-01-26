@@ -1,6 +1,26 @@
-*.iml
-target
-classes
-build
+### PAL Specific ###
+ci/variables.yml
+### IntelliJ IDEA ###
 .idea
+*.iml
+*.ipr
+*.iws
+### Environment ###
+*.log
+.factorypath
+.classpath
 .env
+### Mac ###
+.DS_Store
+### Gradle ###
+.gradle
+build
+### Node Modules ###
+.nb-gradle/node_modules/
+nbbuild/
+nbdist/
+nbproject/private/
+### STS ###
+.project
+.settings
+.springBeans
